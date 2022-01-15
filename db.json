@@ -4,19 +4,19 @@
         "name": "Batman",
 },
 {
-        "id": "2",
+        "id": 2,
         "name": "Superman",
 },
 {
-        "id": "3",
+        "id": 3,
         "name": "Spiderman",
 },
 {
-         "id": "4",
+         "id": 4,
          "name": "Ironman",
 },
 {
-         "id": "4",
+         "id": 5,
          "name": "Hulk",
 }
 ]
